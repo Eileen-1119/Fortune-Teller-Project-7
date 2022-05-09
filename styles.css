@@ -1,0 +1,40 @@
+.first-page {
+    border:10px dotted blue;
+    padding:10px;
+    margin:20px;
+}
+
+body {
+	display:flex;
+    justify-content:center;
+}
+
+h1 {
+	color:green;
+}
+
+img {
+	height: 250px;
+    width:400px;
+    padding:10px;
+    display:flex;
+}
+
+button {
+	display:flex;
+    
+}
+
+p {
+	font-size:20px;
+    font-family:"Patrick Hand", cursive;
+}
+
+.prediction {
+	font-size:20px;
+    font-family:"Patrick Hand", cursive;
+    border:10px dotted orange;
+    padding:10px;
+    margin:20px;
+    display:none;
+}
